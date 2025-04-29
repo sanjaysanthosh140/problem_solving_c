@@ -19,10 +19,6 @@ int main(void){
             printf("%d",f);
         }
         printf("\n");
-        // for(j=0,f=1;j<(n-k)*2+1;f++,j++){ 
-            // printf("%d",f); 
-            // } 
-            // printf("\n");
 
     }
 }
