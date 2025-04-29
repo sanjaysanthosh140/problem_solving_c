@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int main(void){
     int i,j,f,k,n=4,y;
     for(i=-n;i<=n;i++){
